@@ -1,6 +1,6 @@
 # Delivery Food app
 
-In the main menu we have 6 categories you can choose from: Pizza, Hamburgers, Sushi, Salads, Pasta and Shakes:
+ ### In the main menu we have 6 categories you can choose from: Pizza, Hamburgers, Sushi, Salads, Pasta and Shakes:
 
 ![HomeScreen](https://user-images.githubusercontent.com/93192407/154814661-a40ae453-51e3-48f5-abf2-22ee3f6ac4ef.jpeg)
 
