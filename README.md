@@ -15,6 +15,7 @@ When you click on a category it will lead you the next screen where you can pick
 
 
 If you choose to go with pizza, like bianca pizza you will be transferred to the detail screen, where you can click on "Add to cart" and the item will be added to your cart.
+
 ![DetailScreen](https://user-images.githubusercontent.com/93192407/154814703-d73fa4ad-1e77-4c2a-835f-5afc3fe4b378.jpeg)
 
 
